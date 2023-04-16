@@ -1,7 +1,7 @@
 ---
 title: "Worlwide Mortality Rates. Why is the death rate increasing worldwide?"
 author: 
-  - Last Name, First Name[^1]
+  - Çakmak, Ahmet Hamdi[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa.csl
 header-includes:
@@ -38,7 +38,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 
 # Important Information About Midterm
 
-\colorbox{BurntOrange}{https://github.com/ahmethamdicakmak/midterm.git}
+\colorbox{BurntOrange}{WRITE YOUR GITHUB REPO LINK ON LINE 35 IN THIS FILE!}
 
 **Project Proposal submisson will be done by uploading a zip file to the ekampus system along with the Github repo link. If you do not upload a zip file to the system and do not provide a Github repo link, you will be deemed not to have entered the midterm and final exams.**
 
@@ -52,15 +52,18 @@ The increase in the world population and the emergence of various epidemic disea
 
 ## Literature Review
 
-In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least four** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
-
-**References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
-
-***You shouldn't delete the last 3 lines. Those lines are required for References section.***
+The factors that cause increased mortality rates may vary according to different geographical regions, age groups and diseases. Some possible causes include: Population growth: The world population is increasing rapidly, which can affect mortality rates. Increasing population can be associated with more disease, malnutrition, lack of access to water resources and inadequate healthcare. Climate change: Climate change can create a variety of health risks, such as increased temperatures, shortages of access to water resources and natural disasters. Depending on climate change, the rate of spread of infectious diseases may increase and increase mortality rates. Aging population: Worldwide population aging can lead to an increase in chronic diseases and disabilities, resulting in higher mortality rates. Smoking and alcohol use: Smoking and alcohol use are among the important causes that increase mortality rates worldwide. These habits can cause many health problems such as heart disease, cancer and respiratory diseases. Communicable diseases: Communicable diseases are still a major cause of death, especially in low- and middle-income countries. These include HIV/AIDS, malaria, tuberculosis and various other infections. Besides these reasons, there are many other factors that increase mortality rates worldwide. However, detailed information such as which factors affect mortality rates the most, which geographical regions and age groups are more effective, may vary according to the purpose of the studies. Now let's take a look at some studies on mortality rates around the world. First published annually by The Lancet Global Burden of Disease Study: The Lancet provides a comprehensive analysis of the disease burden and mortality rates worldwide. According to 2019 data, the worldwide death rate was estimated at 7.7 per 100,000 people. Countries with the highest death rates include the Central African Republic, Sierra Leone, Afghanistan and Chad. Second, the World Health Organization (WHO) Global Health Observatory Data Repository: This database, which WHO collects global health data, presents worldwide mortality rates by various diseases and causes of death. The most common causes of death include heart diseases, cancer, respiratory diseases and diabetes. Third, the Institute for Health Metrics and Evaluation (IHME) Global Burden of Disease Study: This study by IHME also provides a comprehensive analysis of the disease burden and mortality rates worldwide. According to 2019 data, countries with the highest death rates include Lesotho, Esvatini, Central African Republic and Mozambique. Finally, United Nations Department of Economic and Social Affairs (UNDESA) World Population Prospects: This report examines the age structure and mortality rates of the population worldwide. According to 2020 data, the worldwide death rate was estimated at 7.4 per 1000 people. These studies show that mortality rates worldwide can vary with different diseases, age groups, and geographic regions. They also show that mortality rates are higher in some geographic areas than in others.
 
 \newpage
 
 # References {#references}
 
 ::: {#refs}
+1-<https://www.whitehouse.gov/cea/written-materials/2022/07/12/excess-mortality-during-the-pandemic-the-role-of-health-insurance/>
+
+2-<https://www.nationalacademies.org/news/2021/03/death-rates-rising-among-middle-aged-and-younger-americans-report-recommends-urgent-national-response>
+
+3-<https://www.mana.md/why-is-the-death-rate-rising/>
+
+4-[[https://www.thelancet.com/article/S0140-6736(21)02796-3/fulltext](https://www.thelancet.com/article/S0140-6736(21)02796-3/fulltext)](https://www.thelancet.com/article/S0140-6736(21)02796-3/fulltext%5D(https://www.thelancet.com/article/S0140-6736(21)02796-3/fulltext))
 :::
