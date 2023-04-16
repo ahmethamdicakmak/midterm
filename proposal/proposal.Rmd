@@ -1,0 +1,66 @@
+---
+title: "Worlwide Mortality Rates. Why is the death rate increasing worldwide?"
+author: 
+  - Last Name, First Name[^1]
+bibliography: ../bibliography/biblio.bib
+csl: ../csl/apa.csl
+header-includes:
+  - \usepackage{polyglossia}
+  - \setmainlanguage{english}
+  - \usepackage{booktabs}
+  - \usepackage{caption} 
+  - \captionsetup[table]{skip=10pt}
+output:
+  bookdown::pdf_document2:
+    fig_caption: yes
+    fig_height: 3
+    fig_width: 4
+    keep_tex: no
+    latex_engine: xelatex
+    number_sections: yes
+    toc: no
+geometry: margin=1in
+link-citations: yes
+urlcolor: blue
+fontsize: 12pt
+biblio-style: apalike
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+<!-- ======================================================================= -->
+
+<!-- ============================== FOOTNOTES ============================== -->
+
+<!-- ======================================================================= -->
+
+# Important Information About Midterm
+
+\colorbox{BurntOrange}{https://github.com/ahmethamdicakmak/midterm.git}
+
+**Project Proposal submisson will be done by uploading a zip file to the ekampus system along with the Github repo link. If you do not upload a zip file to the system and do not provide a Github repo link, you will be deemed not to have entered the midterm and final exams.**
+
+**You must upload your project folder (`YourStudentID.zip` file) to *ekampus.ankara.edu.tr* until 16 April 2023, 23:59.**
+
+\colorbox{WildStrawberry}{Read the README.md file in the project folder for more information.}
+
+# Introduction
+
+The increase in the world population and the emergence of various epidemic diseases have affected people around the world. People can die for many reasons. We can list the causes such as climate change, wars, diseases, increasing population and the use of harmful substances. That's why I wanted to investigate why death rates around the world are increasing and why people die. I want to know if the deaths are concentrated in a certain region or there is an increase in deaths worldwide. Because one of the most fundamental rights that people have in the world is the right to live, and therefore it will be beneficial for humanity to focus on this situation. In this way, people can be made aware of this situation and various measures can be taken around the world to reduce the death rate increase.
+
+## Literature Review
+
+In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least four** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
+
+**References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
+
+***You shouldn't delete the last 3 lines. Those lines are required for References section.***
+
+\newpage
+
+# References {#references}
+
+::: {#refs}
+:::
